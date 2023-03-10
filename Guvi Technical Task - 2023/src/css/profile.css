@@ -1,0 +1,10 @@
+.main-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: -webkit-linear-gradient(left, #f1dbf5, #b280ee);
+    border-radius: 12px;
+}
+  
